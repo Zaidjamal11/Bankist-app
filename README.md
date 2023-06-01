@@ -14,7 +14,7 @@
 
 1: git clone https://github.com/your-username/bankist-app.git
 
-2: Change into the project directory: cd google-keep-clone
+2: Change into the project directory: cd bankist-app
 
 3: Install the dependencies: npm install
 
