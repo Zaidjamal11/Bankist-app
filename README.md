@@ -27,4 +27,5 @@
 **Acknowledgements**
                                                      
   This project is inspired by the functionality and design of online banking interfaces.
+  
   The project utilizes HTML/CSS and JavaScript for the frontend 
